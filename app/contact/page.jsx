@@ -1,6 +1,7 @@
+import ContactComp from "@/Components/ContactComp/ContactComp";
 const contactPage = () => {
   return (
-    <div>contact page</div>
-  )
-}
-export default contactPage
+   <ContactComp/>
+  );
+};
+export default contactPage;

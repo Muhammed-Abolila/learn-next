@@ -1,5 +1,6 @@
+import HomeComp from "@/Components/HomeComp/HomeComp";
 export default function Home() {
   return (
-    <h1>hello next</h1>
+    <HomeComp/>
   );
 }
