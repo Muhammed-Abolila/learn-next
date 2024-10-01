@@ -16,6 +16,10 @@ const navBarData = [
     link: "/product-details/1",
     name: "Product Details",
   },
+  {
+    link: "/fetch-data",
+    name: "Fetch Data",
+  },
 ];
 const Navbar = () => {
   return (
