@@ -18,8 +18,6 @@ const navBarData = [
   },
 ];
 const Navbar = () => {
-  console.log("navBarData", navBarData);
-
   return (
     <nav>
       <ul>
