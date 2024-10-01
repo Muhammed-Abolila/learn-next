@@ -13,7 +13,7 @@ const navBarData = [
     name: "Contact",
   },
   {
-    link: "/product-details/6",
+    link: "/product-details/1",
     name: "Product Details",
   },
 ];
