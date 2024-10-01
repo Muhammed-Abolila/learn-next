@@ -20,6 +20,10 @@ const navBarData = [
     link: "/fetch-data",
     name: "Fetch Data",
   },
+  {
+    link: "/form",
+    name: "Form page",
+  },
 ];
 const Navbar = () => {
   return (
